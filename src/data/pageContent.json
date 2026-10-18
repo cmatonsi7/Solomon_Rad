@@ -1,0 +1,1117 @@
+{
+ "clients-projects": {
+  "title": "Clients & Projects | Solomon Radclyffe",
+  "description": "Selected clients and delivered projects across the Middle East, Africa and Eastern Europe, from airports and banks to data centres and infrastructure.",
+  "h1": "Trusted with the sites that cannot stand still",
+  "lead": "Airports, banks, hotels, towers and industrial plants across the Middle East, Africa and Eastern Europe. The reference list runs from single buildings to multi-site estates.",
+  "sections": [
+   {
+    "h2": "Who we work for",
+    "intro": "Our clients operate sites that cannot afford to stand still: airports, banks, hotels, towers, plants and campuses.",
+    "items": [
+     {
+      "h": "Banks and financial institutions",
+      "p": "Branches, head offices and data halls where access records and video have to be produced on request."
+     },
+     {
+      "h": "Airports and aviation",
+      "p": "Terminals, landside boundaries and vehicle gates, delivered against operational deadlines."
+     },
+     {
+      "h": "Hospitality and leisure",
+      "p": "Guest-facing venues where security has to be present and invisible at the same time."
+     },
+     {
+      "h": "Commercial and residential towers",
+      "p": "Multi-tenant buildings with shared lobbies, car parks and hundreds of daily movements."
+     },
+     {
+      "h": "Oil, gas and industrial",
+      "p": "Plants, yards and remote sites monitored continuously, with escalation rules people follow."
+     },
+     {
+      "h": "Education",
+      "p": "Campuses balancing open daytime access with safeguarding and out-of-hours security."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Environment by environment",
+    "intro": "The same disciplines applied to very different sites, from a single tower to a national network of branches.",
+    "items": [],
+    "bullets": [],
+    "images": [
+     {
+      "id": "d7b70510-feca-4b6b-a66f-e75505baa290",
+      "alt": "Businessman using an electronic kiosk beside glass turnstiles in a modern city office lobby."
+     }
+    ]
+   },
+   {
+    "h2": "Your site could be the next one on this list",
+    "intro": "If you are planning a build, a refurbishment or a security upgrade, involving us early is where the savings are.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "01d9d39a-9aa9-444f-94f9-5bef4d378ee7",
+    "alt": "Wet nighttime plaza outside a glass office building with illuminated turnstiles, pedestrians, and blue accent lighting."
+   }
+  ]
+ },
+ "contact": {
+  "title": "Contact & Request a Consultation | Solomon Radclyffe",
+  "description": "Speak to an expert about your security or integration project. Request a consultation, ask for support, or reach our UAE and Zimbabwe offices.",
+  "h1": "Speak to an expert",
+  "lead": "Tell us about the site, the risk you are carrying, or the system you have inherited. You will hear back from the team that would deliver the work.",
+  "sections": [
+   {
+    "h2": "Send us the details",
+    "intro": "Tell us the site, the systems involved and the timeline. Your enquiry goes to the engineering team, not to a call centre.",
+    "items": [],
+    "bullets": [],
+    "images": [
+     {
+      "id": "49fc00ca-a7ef-469a-9f3c-1f38a46931b7",
+      "alt": "Three professionals discuss documents and a laptop around a table in a bright glass-walled office."
+     }
+    ]
+   },
+   {
+    "h2": "Three steps from enquiry to proposal",
+    "intro": "No forms that disappear into a queue. Your enquiry reaches the engineering team, and we tell you plainly what we can and cannot help with.",
+    "items": [
+     {
+      "h": "A person reads it and replies",
+      "p": "Someone from the delivery team reviews your enquiry and comes back to arrange a call at a time that suits you."
+     },
+     {
+      "h": "Scoping call",
+      "p": "A short conversation about the site, the risk and the timeline, with an indication of the disciplines involved and whether a survey is the right next step."
+     },
+     {
+      "h": "Survey and proposal",
+      "p": "If it is a fit, we survey the site and come back with a scoped, costed proposal covering design, installation and the support that follows."
+     }
+    ],
+    "bullets": []
+   }
+  ]
+ },
+ "index": {
+  "title": "Solomon Radclyffe | Intelligent Security & Integration Solutions",
+  "description": "Enterprise security and intelligent integration across the Middle East, Africa and Eastern Europe. Turnkey design, installation and lifecycle support.",
+  "h1": "Complete peace of mind, built on integrated security",
+  "lead": "Turnkey design, installation and lifecycle support for enterprise and public sector estates across the Middle East, Africa and Eastern Europe.",
+  "sections": [
+   {
+    "h2": "Your trusted advisor for smarter security",
+    "intro": "One accountable partner from risk assessment to lifecycle support. We specify, integrate and maintain the systems your site depends on, rather than handing over equipment and walking away.",
+    "items": [
+     {
+      "h": "Consult",
+      "p": "Risk assessments, site surveys and system design that start from how your site actually operates, not from a product list."
+     },
+     {
+      "h": "Integrate",
+      "p": "Surveillance, access, detection and control brought into one management platform, installed and commissioned by a single team."
+     },
+     {
+      "h": "Support",
+      "p": "Preventive and corrective maintenance under contracted SLAs, so the system still performs in year five."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Eight integration disciplines, one accountable integrator",
+    "intro": "Specify a single discipline or the whole estate. Every solution is designed around the technology you already run and supported after handover.",
+    "items": [
+     {
+      "h": "Video Surveillance",
+      "p": "CCTV, thermal imaging, video analytics and VMS, designed for coverage that holds up at scale."
+     },
+     {
+      "h": "Access Control",
+      "p": "Credentialing, readers, turnstiles and visitor management, integrated with HR and surveillance."
+     },
+     {
+      "h": "Intrusion & Perimeter Detection",
+      "p": "Layered fence, radar and thermal detection for large, remote and high-risk sites."
+     },
+     {
+      "h": "ANPR & Vehicle Mitigation",
+      "p": "Number plate recognition, car park management and certified hostile vehicle mitigation."
+     },
+     {
+      "h": "Screening & Scanning",
+      "p": "Metal detection, X-ray, under-vehicle and parcel screening for high-throughput entrances."
+     },
+     {
+      "h": "Command & Control Centers",
+      "p": "Control room design and unified security management that brings every system into one picture."
+     },
+     {
+      "h": "Network & Data Center Security",
+      "p": "Structured cabling, network and physical data centre protection: the layer everything else runs on."
+     },
+     {
+      "h": "Audio Visual & Communications",
+      "p": "Boardroom and control room AV, digital signage and intercoms, integrated with your security systems."
+     },
+     {
+      "h": "Continents of operation",
+      "p": ""
+     },
+     {
+      "h": "Years combined board experience",
+      "p": ""
+     },
+     {
+      "h": "Compound annual growth",
+      "p": ""
+     },
+     {
+      "h": "Debt, self-financed",
+      "p": ""
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Built for sites where failure is not an option",
+    "intro": "Sector-specific design, because a transit hub, a trading floor and a remote energy site fail in very different ways.",
+    "items": [
+     {
+      "h": "Aviation & Transport",
+      "p": "Terminals, depots and rail: screening throughput, perimeter integrity and control room integration."
+     },
+     {
+      "h": "Finance & Banking",
+      "p": "Branch, vault and data hall protection with the access governance and audit trail regulators expect."
+     },
+     {
+      "h": "Hospitality & Entertainment",
+      "p": "Guest-facing security that stays discreet: surveillance, access control and crowd movement."
+     },
+     {
+      "h": "Corporate & Data Centers",
+      "p": "Multi-tenant buildings and data halls, where access control meets physical and environmental security."
+     },
+     {
+      "h": "Energy, Oil & Gas",
+      "p": "Remote, hazardous and high-consequence sites with layered detection and resilient communications."
+     },
+     {
+      "h": "Education",
+      "p": "Campus-wide surveillance, access and emergency communications balanced against an open environment."
+     },
+     {
+      "h": "Infrastructure & Tolling",
+      "p": "Roads, bridges, utilities and tolling: ANPR, monitoring and asset protection at scale."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Design, install, maintain",
+    "intro": "Four service lines run through every project: consulting and risk advisory, design and analysis, installation and integration, and maintenance and support.",
+    "items": [
+     {
+      "h": "Consult & design",
+      "p": "Risk advisory, site surveys and system design, with drawings and specifications your consultants and main contractor can build to."
+     },
+     {
+      "h": "Install & integrate",
+      "p": "Supply, installation, configuration and commissioning, with every system integrated into one management platform."
+     },
+     {
+      "h": "Maintain & support",
+      "p": "Preventive, corrective and comprehensive maintenance, remote and on-site, under contract, with lifecycle management to end of life."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Reliability today. Performance tomorrow.",
+    "intro": "Every installation carries a one-year Defects Liability Period, with preventive, corrective and comprehensive maintenance options, contracted SLAs and lifecycle management beyond it.",
+    "items": [],
+    "bullets": [],
+    "images": [
+     {
+      "id": "c4045ade-1acd-4cbb-aa8c-74990a22c3e0",
+      "alt": "Technician in dark workwear repairs a dome security camera beside a commercial building using a ladder."
+     }
+    ]
+   },
+   {
+    "h2": "Trusted to protect",
+    "intro": "Selected clients across aviation, banking, energy, education and technology: Dubai Airports, Etihad Airways, Microsoft, Cisco, Goldman Sachs, Morgan Stanley, Halliburton, NYU, Atlantis, Cameron and Group Five.",
+    "items": [],
+    "bullets": []
+   },
+   {
+    "h2": "Designed around proven technology",
+    "intro": "We are not tied to a single vendor. We specify the platform that fits the site, from video management and access control to detection, screening, command and control software, network infrastructure and audio visual.",
+    "items": [],
+    "bullets": []
+   },
+   {
+    "h2": "Systems are only as good as the team behind them",
+    "intro": "Our engineers and technicians are trained on the platforms we install, and we plan for the scenarios a site did not specify: a link drops, a system fails, the threat changes.",
+    "items": [],
+    "bullets": [
+     "Engineers and technicians trained on the platforms we install",
+     "Scenario planning for outages, breaches and shifting threats",
+     "Contracted response times and escalation paths"
+    ],
+    "images": [
+     {
+      "id": "d4aba242-2645-4ad4-93fb-0cebe6b3004a",
+      "alt": "Two IT technicians inspect a blurred tablet beside network server racks in a cable-filled server room."
+     }
+    ]
+   },
+   {
+    "h2": "Talk to the team that will deliver it",
+    "intro": "Whether you are specifying a new estate, need support on an existing one, or want to join us, pick the route that fits.",
+    "items": [
+     {
+      "h": "Speak to an expert",
+      "p": "A consultation on your site, your risks and the options available, with no obligation."
+     },
+     {
+      "h": "Request support",
+      "p": "Already a client? Log a fault or book preventive maintenance with our service desk."
+     },
+     {
+      "h": "Join our team",
+      "p": "Engineers, technicians and project managers: tell us what you do and where you have worked."
+     }
+    ],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "9f97cb65-7884-4938-9426-60eb30725d8b",
+    "alt": "Two operators work at computer consoles in a dark control room facing a large wall of blurred display screens."
+   }
+  ]
+ },
+ "industries": {
+  "title": "Industries We Serve | Solomon Radclyffe",
+  "description": "Aviation, finance, hospitality, data centres, energy, education and infrastructure — security and integration built for each sector's risks.",
+  "h1": "Security that fits how your sector actually runs",
+  "lead": "An airport terminal, a bank branch and a hospital have different risks, different operating hours and different people walking through them. We design for yours.",
+  "sections": [
+   {
+    "h2": "Where our teams work",
+    "intro": "Seven sectors make up most of our delivery. The technology differs from site to site; the discipline behind it does not.",
+    "items": [
+     {
+      "h": "Aviation and airports",
+      "p": "Screening lanes, perimeter detection and vehicle access for terminals, airside sites and support buildings."
+     },
+     {
+      "h": "Banking and financial services",
+      "p": "Branches, head offices and data halls, with access records and video retention set up to be produced on request."
+     },
+     {
+      "h": "Hospitality and leisure",
+      "p": "Discreet surveillance and access control that separates guest areas from back of house and service routes."
+     },
+     {
+      "h": "Commercial and residential towers",
+      "p": "Lobby, lift and car park access for buildings handling hundreds of daily movements without queues."
+     },
+     {
+      "h": "Energy, oil and gas",
+      "p": "Remote and high-consequence sites monitored continuously, with escalation written for a thin on-site team."
+     },
+     {
+      "h": "Education",
+      "p": "Campus access, surveillance and visitor control that support safeguarding and term-time operations."
+     },
+     {
+      "h": "Construction and infrastructure",
+      "p": "Phased security for sites that change shape month to month, from hoarding line to permanent handover."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Different sectors fail in different ways",
+    "intro": "The cost of a lapse is not the same everywhere. Our design starts with what a failure would cost you, then works back to the system that prevents it.",
+    "items": [],
+    "bullets": [],
+    "images": [
+     {
+      "id": "aab2466b-fb04-4f40-8033-4918cc61963c",
+      "alt": "Fenced industrial facility with storage tanks, pipes, security lights, and a gravel road at dusk."
+     }
+    ]
+   },
+   {
+    "h2": "Talk to someone who has delivered in your sector",
+    "intro": "Tell us the site, the operating hours and the risk you are carrying. We will tell you what we would do about it, and what it would take.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "091c32b7-ca09-47ad-a706-5e8121bbf24f",
+    "alt": "Travelers with rolling luggage walk through a modern airport terminal beside security checkpoints and colorful overhead displays."
+   }
+  ]
+ },
+ "privacy-policy": {
+  "title": "Privacy Policy | Solomon Radclyffe",
+  "description": "How Solomon Radclyffe collects, uses and protects personal information submitted through this website.",
+  "h1": "",
+  "lead": "",
+  "sections": []
+ },
+ "services": {
+  "title": "Services | Design, Integration & Maintenance | Solomon Radclyffe",
+  "description": "Consulting and risk advisory, design and analysis, installation and integration, and maintenance and support with one-year DLP, SLAs and lifecycle management.",
+  "h1": "Turnkey design, installation and lifecycle support",
+  "lead": "One contract from first survey to end of life: consulting and risk advice, design and engineering, installation and integration, then maintenance and support for as long as you run the systems.",
+  "sections": [
+   {
+    "h2": "Four service lines, one delivery team",
+    "intro": "Many integrators sell equipment and subcontract the work. We keep consulting, design, installation and maintenance inside the same business, so the engineer who surveyed your site is still accountable for it years later.",
+    "items": [
+     {
+      "h": "Consulting and risk advisory",
+      "p": "Threat and vulnerability assessment, security master planning and technology roadmaps for estates that will be built in phases. You get a defensible basis for spending the budget in the right order."
+     },
+     {
+      "h": "Design and engineering",
+      "p": "System design, device schedules, drawings and specifications issued for tender or construction, with the interfaces between systems worked out on paper before anyone drills a hole."
+     },
+     {
+      "h": "Installation and integration",
+      "p": "Our own engineers install, configure and commission the works, including civils, containment, cabling and the links into the systems you already run."
+     },
+     {
+      "h": "Maintenance and lifecycle support",
+      "p": "Preventive schedules, contracted response times and spares held for the critical devices on your site, so the system you bought still performs in year five."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "What a project asks of you, and what you get back",
+    "intro": "Three stages, three sets of deliverables. Most clients spend a few hours with us at each stage rather than weeks.",
+    "items": [
+     {
+      "h": "Scoping call and site survey",
+      "p": "We agree the objective, then survey the site: existing systems, coverage gaps, power and network routes, and the operational reality your team works in."
+     },
+     {
+      "h": "Design, specification and fixed scope",
+      "p": "You receive drawings, device schedules and a fixed scope of works, with the equipment options costed side by side and ready for procurement or board approval."
+     },
+     {
+      "h": "Installation, commissioning and support",
+      "p": "We install and commission with as little disruption to operations as possible, train your team, hand over as-built records, and stay on beyond the Defects Liability Period."
+     }
+    ],
+    "bullets": [],
+    "images": [
+     {
+      "id": "4f12248e-d087-436e-a19d-d8735ee49a05",
+      "alt": "Technician uses a tablet and screwdriver to inspect wiring inside an open electrical control cabinet."
+     }
+    ]
+   },
+   {
+    "h2": "A system is only as good as the year it fails",
+    "intro": "Equipment drifts. Cameras lose focus, door contacts stick, drives age. We plan for that from day one, so faults are found on a schedule rather than in an incident review.",
+    "items": [],
+    "bullets": [
+     "A one-year Defects Liability Period on every installation, with faults rectified at our cost",
+     "Contracted response times and spares held for the critical devices on your site",
+     "Lifecycle planning that tells you when equipment should be replaced rather than repaired again"
+    ]
+   },
+   {
+    "h2": "The questions procurement teams ask",
+    "intro": "Straight answers to what comes up late in evaluation. If your question is not here, ask it and we will answer it plainly.",
+    "items": [
+     {
+      "h": "Can you work with the systems we already have?",
+      "p": "Yes, and it is often the cheapest route. We survey what is installed, keep what is serviceable, and design the new work around it. Where a system is at end of life we say so, with the cost of keeping it set against the cost of replacing it."
+     },
+     {
+      "h": "Are you tied to one manufacturer?",
+      "p": "No. We are vendor independent and accredited on the platforms we deploy, so the specification follows your risk and your budget rather than a distribution agreement. Licences and records stay with you."
+     },
+     {
+      "h": "How do we buy from you?",
+      "p": "Directly, or through the route your organisation already uses: tender, framework, or as a nominated subcontractor to a main contractor. We work alongside consultants and main contractors regularly and are used to their documentation."
+     },
+     {
+      "h": "What happens in the first conversation?",
+      "p": "A scoping call with the engineer who would deliver the work, not a sales call. We ask about the site, the risk you are carrying and the timeline, then tell you honestly whether a survey is worth commissioning."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Start with a conversation, not a quotation",
+    "intro": "Send us the site and the objective. You will speak to the engineer who would deliver the work, and get an honest view of what it takes.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "0685a2b8-1247-4034-bfcc-eb1a39e2a4f9",
+    "alt": "Two technicians inspect electrical wiring in an unfinished office beside a ladder, toolbox, and tablet."
+   }
+  ]
+ },
+ "solutions": {
+  "title": "Security Solutions | Solomon Radclyffe",
+  "description": "Video surveillance, access control, perimeter protection, screening, command and control, network infrastructure and AV — designed, integrated and supported end to end.",
+  "h1": "One team for every security discipline on your site",
+  "lead": "Video surveillance, access control, perimeter detection, screening, command and control, networks, audiovisual and vehicle security: designed, installed and maintained as one integrated system rather than eight separate projects.",
+  "sections": [
+   {
+    "h2": "Choose the discipline you need",
+    "intro": "Each one is delivered by the same engineering team, documented to the same standard, and supported long after handover.",
+    "items": [
+     {
+      "h": "Video Surveillance",
+      "p": "Cameras, recording and analytics from the perimeter to the plant room, designed for coverage you can verify."
+     },
+     {
+      "h": "Access Control",
+      "p": "Who goes where, and when: readers, turnstiles, visitor management and audit trails on one credential system."
+     },
+     {
+      "h": "Intrusion & Perimeter Detection",
+      "p": "Detect and verify intrusion at the boundary with fencing, radar, sensors and analytics, before anyone reaches an asset."
+     },
+     {
+      "h": "ANPR, Car Park & Hostile Vehicle Mitigation",
+      "p": "Vehicle entry that knows who is arriving: plate recognition, barriers, bollards and lane control rated to the threat."
+     },
+     {
+      "h": "Screening & Scanning",
+      "p": "Passenger and baggage screening for aviation, events and critical sites, sized to throughput without slowing the lane."
+     },
+     {
+      "h": "Command & Control Centers",
+      "p": "One operating picture for your team: video walls, workstations and incident workflow built around the shift."
+     },
+     {
+      "h": "Network Infrastructure & Data Center Security",
+      "p": "The network behind the security systems: structured cabling, switching and hardened data centre space."
+     },
+     {
+      "h": "Audio Visual & Communications",
+      "p": "Briefing rooms, control rooms and public address that communicate clearly on an ordinary day and under pressure."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Systems that talk to each other, because we designed them together",
+    "intro": "Most estates are built one system at a time and then inherited by the next contractor. We resolve the interfaces up front: which camera feeds the analytics, what a forced door does to the recording, and who is alerted when the perimeter is breached.",
+    "items": [],
+    "bullets": [
+     "Open, documented interfaces between every system we install",
+     "One integrated as-built record, handed over at completion",
+     "One engineering team accountable across all eight disciplines"
+    ],
+    "images": [
+     {
+      "id": "9f97cb65-7884-4938-9426-60eb30725d8b",
+      "alt": "Two operators work at computer consoles in a dark control room facing a large wall of blurred display screens."
+     }
+    ]
+   },
+   {
+    "h2": "From site survey to a system your team can run",
+    "intro": "The same sequence runs on a single site or a multi-country rollout, so you always know what happens next and what you receive at the end of it.",
+    "items": [
+     {
+      "h": "Survey and risk assessment",
+      "p": "We walk the site with your team, test what is already installed, and document the gap between the current system and the risk you are carrying."
+     },
+     {
+      "h": "Design, specification and pricing",
+      "p": "Drawings, device schedules and a fixed scope of works you can take to procurement, with the technology options costed side by side."
+     },
+     {
+      "h": "Installation, commissioning and handover",
+      "p": "Our own engineers install and commission the works, then hand over as-built records, training and a one-year Defects Liability Period."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Not sure which discipline you need?",
+    "intro": "Send us the site and the risk you are trying to close. We will tell you which disciplines are involved, what a survey would cover, and whether you need to appoint anyone at all.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "22d2e9eb-7a60-4fb4-93e7-dd5dd5946a3e",
+    "alt": "Two operators monitor multiple screens in a dark control room beneath a large curved video wall."
+   }
+  ]
+ },
+ "solutions/access-control": {
+  "title": "Access Control Systems | Solomon Radclyffe",
+  "description": "Credentialing, readers, turnstiles and access control integrated with surveillance, HR and visitor management.",
+  "h1": "Access that fits how your sites actually work",
+  "lead": "Readers, turnstiles, barriers and lift control joined to your HR and visitor processes, so the right people move freely and everyone else is stopped without a scene.",
+  "sections": [
+   {
+    "h2": "Control the door, and the paperwork behind it",
+    "intro": "Access control only earns its cost when it matches the risk of each opening and the rhythm of the people passing through it. That's the design brief.",
+    "items": [
+     {
+      "h": "Credentials matched to the risk",
+      "p": "Cards, mobile credentials and biometrics specified per opening — a staff entrance is not a server room or a cash office, and shouldn't be secured the same way."
+     },
+     {
+      "h": "Movement without queues",
+      "p": "Lane, reader and turnstile layout planned around real peak flows — a shift change, a morning intake — rather than a theoretical throughput figure."
+     },
+     {
+      "h": "Tied into what you already run",
+      "p": "Access events joined to video, fire, HR and visitor management, so a door decision and the footage that explains it sit in one place."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Tell us who needs to go where",
+    "intro": "A floor plan and a view on zones is enough to start. We'll scope the readers, credentials and integrations honestly, including the parts you don't need.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "d7b70510-feca-4b6b-a66f-e75505baa290",
+    "alt": "Businessman using an electronic kiosk beside glass turnstiles in a modern city office lobby."
+   }
+  ]
+ },
+ "solutions/anpr-car-park-hostile-vehicle-mitigation": {
+  "title": "ANPR, Car Park & Vehicle Mitigation | Solomon Radclyffe",
+  "description": "ANPR, car park management and certified hostile vehicle mitigation for controlled vehicle movement and protected entrances.",
+  "h1": "Every vehicle accounted for, every approach controlled",
+  "lead": "Number plate recognition and hostile vehicle mitigation specified together, because knowing who is at the gate only matters if the gate itself can hold.",
+  "sections": [
+   {
+    "h2": "A gate that reads, decides and holds",
+    "intro": "Vehicle security usually splits across three suppliers: the recognition, the barrier and the procedure. We specify them as one system, so the gate behaves predictably.",
+    "items": [
+     {
+      "h": "Plate capture that reads at speed",
+      "p": "ANPR cameras positioned and tuned for your approach speeds, lane widths and the plate formats your visitors actually arrive with."
+     },
+     {
+      "h": "Mitigation rated to the threat",
+      "p": "Barriers, bollards and blockers chosen against a certified rating matched to the vehicle and approach you need to stop, with traffic still flowing."
+     },
+     {
+      "h": "Gates open to legitimate business",
+      "p": "Lane logic, intercoms and visitor handling sequenced so deliveries, contractors and VIP arrivals never queue behind a badly ordered procedure."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Walk us through your access point",
+    "intro": "Send the approach layout and the threat you're designing against. We'll come back with what the gate genuinely needs, and what it can do without.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "6fb751f9-d757-4cd2-b283-7d6f9dcf0b54",
+    "alt": "Gray Audi driving beneath an overhead vehicle-monitoring camera in a modern office campus."
+   }
+  ]
+ },
+ "solutions/audio-visual-communications": {
+  "title": "Audio Visual & Communications | Solomon Radclyffe",
+  "description": "Boardroom and control room AV, digital signage and communications integrated alongside your security systems.",
+  "h1": "Rooms that work the first time, every time",
+  "lead": "Boardroom AV, control room displays, signage and intercom delivered by the same team that integrates your security, so the two never argue over the network.",
+  "sections": [
+   {
+    "h2": "AV joined up with the security estate",
+    "intro": "Displays, audio and signage are specified alongside your security systems, sharing one infrastructure and one point of accountability when something doesn't work.",
+    "items": [
+     {
+      "h": "Meeting spaces that just work",
+      "p": "Boardrooms and collaboration spaces designed, installed and commissioned so a session starts without someone calling a technician into the room."
+     },
+     {
+      "h": "Information where people are",
+      "p": "Digital signage and public address planned into entrances, lobbies and control rooms, managed centrally and updated without a site visit."
+     },
+     {
+      "h": "Communication at the door and in the room",
+      "p": "Intercom, help points and audio integrated with access and surveillance, so a visitor at a barrier can be seen, heard and admitted in one step."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Tell us how your rooms get used",
+    "intro": "One boardroom or a full control suite — we'll specify the room around how it is actually used, and how often it goes wrong today.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "8d44d557-6f0b-4bd1-8b80-b9385a316c1b",
+    "alt": "Executive conference room with a long wood table, black chairs, city-view windows, and a wall-mounted display."
+   }
+  ]
+ },
+ "solutions/command-control-centers": {
+  "title": "Command & Control Centers | Solomon Radclyffe",
+  "description": "Control room design and unified security management that bring separate systems into one operating picture.",
+  "h1": "One picture of the whole estate",
+  "lead": "Control room design and unified security management that bring separate vendors, protocols and consoles into a single operating picture your own team can run.",
+  "sections": [
+   {
+    "h2": "Built for the shift that has to run it",
+    "intro": "A control room is judged at three in the morning by one operator, not in a showroom by a project team. That is the standard we design and hand over to.",
+    "items": [
+     {
+      "h": "A console that shows what matters",
+      "p": "Screen real estate, alarm priority and layout arranged around the decisions an operator actually makes, rather than every feed filling one wall."
+     },
+     {
+      "h": "Systems unified, not stacked",
+      "p": "Integration work that brings video, access, fire and alarms into one interface, so operators stop switching between nine applications to answer one question."
+     },
+     {
+      "h": "Designed around the people in the room",
+      "p": "Console ergonomics, lighting, acoustics and shift procedures planned with the operators, because the room will outlast the technology inside it."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Bring us the systems you're running",
+    "intro": "Tell us what you operate today and what your operators complain about. That conversation is usually more useful than a specification written from a catalogue.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "d655fdf6-f84f-470a-a872-560277843662",
+    "alt": "Dark blue control room with mirrored workstations, monitors, chairs, and a large blurred wall display."
+   }
+  ]
+ },
+ "solutions/intrusion-perimeter-detection": {
+  "title": "Intrusion & Perimeter Detection | Solomon Radclyffe",
+  "description": "Layered perimeter detection — fence sensing, radar and thermal — designed for large, remote and high-risk sites.",
+  "h1": "Know the moment the fence is touched",
+  "lead": "Fence, buried and free-standing detection layered with video verification, so an alert arrives with an image attached and an operator decides in seconds.",
+  "sections": [
+   {
+    "h2": "Detection that operators still trust after a month",
+    "intro": "Most perimeter systems fail quietly: too many nuisance alarms, so the response drifts and the log fills with nothing. The engineering is in the tuning.",
+    "items": [
+     {
+      "h": "Layered detection by zone",
+      "p": "Different technologies for the outer fence line, the yard and the building envelope, tuned so wind, wildlife and weather don't fill the log with noise."
+     },
+     {
+      "h": "Verification that reaches the operator",
+      "p": "Alarm points tied to cameras and lighting, so a trigger delivers a picture and a location rather than a phone call to find out what happened."
+     },
+     {
+      "h": "Deterrence designed alongside it",
+      "p": "Lighting, signage, patrol routes and response procedures planned with the technology, because detection with no response is only a log entry."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Walk us through the perimeter",
+    "intro": "Send the site plan and the incidents that concern you. We'll tell you where detection genuinely earns its cost, and where a fence and a patrol remains the better answer.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "aab2466b-fb04-4f40-8033-4918cc61963c",
+    "alt": "Fenced industrial facility with storage tanks, pipes, security lights, and a gravel road at dusk."
+   }
+  ]
+ },
+ "solutions/network-infrastructure-data-center-security": {
+  "title": "Network Infrastructure & Data Center Security | Solomon Radclyffe",
+  "description": "Structured cabling, network and data centre physical security — the resilient foundation every integrated system runs on.",
+  "h1": "The layer everything else runs on",
+  "lead": "Structured cabling, network and data centre physical security delivered to the standards enterprise and public sector estates are audited against.",
+  "sections": [
+   {
+    "h2": "Resilience designed in, not added later",
+    "intro": "Security systems inherit every weakness of the network beneath them. We build that layer so video, access and alarms degrade gracefully instead of failing together.",
+    "items": [
+     {
+      "h": "Cabling and containment done properly",
+      "p": "Structured cabling, pathways and containment installed, tested and documented to standard, so the next addition is a plan rather than a guess."
+     },
+     {
+      "h": "Network sized for security traffic",
+      "p": "Bandwidth, segmentation, PoE budgets and redundancy planned for camera, access and intercom load, with headroom for the growth you already expect."
+     },
+     {
+      "h": "Rooms protected at rack level",
+      "p": "Access, monitoring and environmental alarms for the rooms that hold your most sensitive infrastructure, layered from the door to the rack."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Start with the layer nobody sees",
+    "intro": "Send your current network and cabling documentation, or tell us there isn't any. We'll tell you what the systems above it can realistically carry.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "b430952e-1569-4427-8d27-c8cfd123d6b2",
+    "alt": "Symmetrical blue-lit data center aisle with server racks, cable trays, and glowing indicator lights."
+   }
+  ]
+ },
+ "solutions/screening-scanning": {
+  "title": "Screening & Scanning Systems | Solomon Radclyffe",
+  "description": "Metal detectors, X-ray, under-vehicle and parcel screening systems for aviation, events and critical infrastructure.",
+  "h1": "Throughput without turning the entrance into a checkpoint",
+  "lead": "X-ray, metal detection and trace screening sized to your volume and your threat picture, with lane design that keeps a queue moving at peak.",
+  "sections": [
+   {
+    "h2": "Screening judged at the busiest hour, not the average",
+    "intro": "Screening either holds under a morning peak or it spills into the public area and the street. We design the lane layout against your worst hour.",
+    "items": [
+     {
+      "h": "Equipment sized to your volume",
+      "p": "Screening technology chosen against real peak throughput and the objects you care about finding, rather than the largest machine a supplier wants to place."
+     },
+     {
+      "h": "Lanes that keep people moving",
+      "p": "Lane counts, divest stations and queuing laid out so peaks absorb inside the entrance, without backing up into the public area or onto the street."
+     },
+     {
+      "h": "Procedures that match the equipment",
+      "p": "Operator workflow, escalation paths and training so screening performs on a busy Monday the way it did on commissioning day."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Tell us your peak, not your average",
+    "intro": "Share your busiest hour and what you screen for. We'll size the lanes and equipment to hold up under it, and be plain about the trade-offs.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "d3df1f0b-0088-4d6e-8834-48060d5d6d7c",
+    "alt": "Airport security checkpoint with conveyor scanners, trays, queue barriers, travelers, and large terminal windows."
+   }
+  ]
+ },
+ "solutions/video-surveillance": {
+  "title": "Video Surveillance & CCTV Systems | Solomon Radclyffe",
+  "description": "CCTV, thermal imaging, video analytics and VMS designed, integrated and maintained for enterprise and public sector estates.",
+  "h1": "See everything. Prove anything.",
+  "lead": "IP video designed, installed and maintained for sites where footage has to stand up — to a client, an insurer or a court. Multi-site, multi-vendor, handed over cleanly.",
+  "sections": [
+   {
+    "h2": "Surveillance built for the site in front of us",
+    "intro": "Camera systems fail at the edges: the blind corner, the retention that expired, the event nobody watched in time. We design against those three failures first.",
+    "items": [
+     {
+      "h": "Coverage designed around the site",
+      "p": "We survey the real perimeter, entrances and critical assets, then specify camera, lens and placement to match — not a standard kit repeated across every location."
+     },
+     {
+      "h": "Retention and evidence that holds",
+      "p": "Recording, storage and retention set to your evidentiary and compliance requirements, with exports that stay usable when someone eventually needs them."
+     },
+     {
+      "h": "Intelligence, not just recording",
+      "p": "Analytics for intrusion, loitering, line crossing and object detection that surface the events worth acting on, and cut the noise operators learn to ignore."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Show us the site and we'll tell you what it needs",
+    "intro": "Bring a drawing, an address or a system you've inherited. You'll get a straight view of what is worth doing first, and what can wait.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "fbe125c3-2357-48f8-b31b-4782693fa660",
+    "alt": "Dark control room with a headset-wearing operator monitoring a large blurred video wall and desk screens."
+   }
+  ]
+ },
+ "technology-partners": {
+  "title": "Technology Partners | Solomon Radclyffe",
+  "description": "The vendors and platforms we design around, grouped by category — integration built on proven technology rather than a single brand.",
+  "h1": "Vendor-independent, product-agnostic",
+  "lead": "We are not tied to a single manufacturer. We specify the platforms that fit your site, your existing estate and your budget, then stand behind the result.",
+  "sections": [
+   {
+    "h2": "The technologies we integrate",
+    "intro": "Six categories cover almost every system we are asked to bring together on a site, and most sites need more than one of them.",
+    "items": [
+     {
+      "h": "Video management",
+      "p": "Cameras, recording and analytics from the platforms that suit the site, not the ones that suit us."
+     },
+     {
+      "h": "Access control and identity",
+      "p": "Doors, turnstiles, credentials and visitor management working from one access policy."
+     },
+     {
+      "h": "Intrusion and perimeter detection",
+      "p": "Fence, buried and volumetric detection linked to video so an alarm can be verified before anyone responds."
+     },
+     {
+      "h": "Vehicle systems",
+      "p": "ANPR, barriers and hostile vehicle mitigation for entrances, service yards and car parks."
+     },
+     {
+      "h": "Network and infrastructure",
+      "p": "The structured cabling, switching and server foundations every other system depends on."
+     },
+     {
+      "h": "Audio visual and communications",
+      "p": "Control rooms, meeting spaces, signage, PA and intercom for the sites that run on them."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Specified for the site, not for a sales target",
+    "intro": "Our advice is independent of any single manufacturer. It is the only way a recommendation is worth having.",
+    "items": [],
+    "bullets": [],
+    "images": [
+     {
+      "id": "3e19e90a-789b-412c-9d71-1823c5628cfa",
+      "alt": "Two researchers test a small circuit on a tripod beside laboratory instruments, cables, and a laptop."
+     }
+    ]
+   },
+   {
+    "h2": "The platforms behind our projects",
+    "intro": "We work across the major security and integration platforms, and with whatever your estate is already running.",
+    "items": [],
+    "bullets": []
+   },
+   {
+    "h2": "Bring us your specification, or just your problem",
+    "intro": "Send drawings, a bill of quantities, or simply the risk you are trying to remove. You will get a written approach and an honest view of the budget.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "4f9210de-0f0c-4f75-8dfe-d974901ad550",
+    "alt": "Three server racks with blinking lights and bundled cables in a blue-lit data center, with a blurred person in the background."
+   }
+  ]
+ },
+ "terms-of-use": {
+  "title": "Terms of Use | Solomon Radclyffe",
+  "description": "The terms governing use of the Solomon Radclyffe website and its content.",
+  "h1": "",
+  "lead": "",
+  "sections": []
+ },
+ "where-we-operate": {
+  "title": "Where We Operate | UAE, Africa & Eastern Europe | Solomon Radclyffe",
+  "description": "Offices in the UAE and Zimbabwe delivering turnkey security projects across the Middle East, Africa and Eastern Europe.",
+  "h1": "Two countries. Three continents of delivery.",
+  "lead": "Headquartered in the UAE with an office in Zimbabwe, we deliver turnkey projects across the Middle East, Africa and Eastern Europe.",
+  "sections": [
+   {
+    "h2": "Two bases, one delivery standard",
+    "intro": "Each office holds its own design, commissioning and maintenance teams, so support is not flying in from another continent.",
+    "items": [
+     {
+      "h": "United Arab Emirates",
+      "p": "Our group base and Gulf office: design, project delivery, commissioning and lifecycle support for the Middle East, Africa and Eastern Europe."
+     },
+     {
+      "h": "Zimbabwe",
+      "p": "Our Africa office: regional delivery teams, commissioning and maintenance across Southern and East Africa."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Where we deliver",
+    "intro": "Our project teams work across three continents, supported from our offices in the UAE and Zimbabwe.",
+    "items": [
+     {
+      "h": "United Arab Emirates and the Gulf",
+      "p": "Design, delivery and support from our group base, for clients across the GCC."
+     },
+     {
+      "h": "Southern Africa",
+      "p": "Delivered from our Zimbabwe office, commissioning and maintenance included."
+     },
+     {
+      "h": "East Africa",
+      "p": "Supported from our Zimbabwe office, with regional teams on site through the project."
+     },
+     {
+      "h": "West Africa",
+      "p": "Delivered to the same design and supervision standard as every other region."
+     },
+     {
+      "h": "North Africa",
+      "p": "Projects supported from our UAE and Zimbabwe offices, depending on the site."
+     },
+     {
+      "h": "Eastern Europe",
+      "p": "Integration projects delivered alongside our Gulf engineering teams."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Tell us where the site is",
+    "intro": "We will tell you honestly whether we can support it properly from one of our offices, before you commit to anything.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "ea3200da-2592-49fc-8550-e0f09a782a00",
+    "alt": "Nighttime skyline beside a waterfront, with illuminated towers and curving highways filled with light trails."
+   }
+  ]
+ },
+ "who-we-are": {
+  "title": "Who We Are | Solomon Radclyffe",
+  "description": "Founded 2007 in the UAE, operating across the Middle East, Africa and Eastern Europe. Privately held, self-financed, with a global board of 50+ years' combined experience.",
+  "h1": "A regional integrator with global delivery standards",
+  "lead": "Founded in 2007 in the UAE as RGS Global Security, and in Africa from 2010 as RGS Africa, Solomon Radclyffe designs, installs and supports security and integration systems across the Middle East, Africa and Eastern Europe.",
+  "sections": [
+   {
+    "h2": "Two decades, two regions, one board",
+    "intro": "Founded in the UAE as RGS Global Security",
+    "items": [],
+    "bullets": []
+   },
+   {
+    "h2": "Two decades of delivery, under one board",
+    "intro": "RGS Global Security was founded in the UAE in 2007 and expanded into Africa in 2010 as RGS Africa. Solomon Radclyffe brings those operations together: one privately held group, one board, one standard of delivery across every office.",
+    "items": [],
+    "bullets": [],
+    "images": [
+     {
+      "id": "d4aba242-2645-4ad4-93fb-0cebe6b3004a",
+      "alt": "Two IT technicians inspect a blurred tablet beside network server racks in a cable-filled server room."
+     }
+    ]
+   },
+   {
+    "h2": "One team from survey to handover",
+    "intro": "Every project runs through the same four stages, with the same accountable team. You know who is responsible at each step and what happens next.",
+    "items": [
+     {
+      "h": "Survey and risk review",
+      "p": "We walk the site, record what already exists and agree the risks that matter before anything is priced."
+     },
+     {
+      "h": "Design and engineering",
+      "p": "Drawings, equipment schedules and system interfaces documented so the design can be built, maintained and audited."
+     },
+     {
+      "h": "Installation and commissioning",
+      "p": "Our own engineers install, test and commission to the specification, and you can see progress as it happens."
+     },
+     {
+      "h": "Training and handover",
+      "p": "The people who will operate the system are trained on it, and every drawing and licence is handed over."
+     }
+    ],
+    "bullets": []
+   },
+   {
+    "h2": "Tell us what you are protecting",
+    "intro": "A single conversation is usually enough for us to tell you whether we are the right integrator for the site, and what we would do first.",
+    "items": [],
+    "bullets": []
+   }
+  ],
+  "heroImages": [
+   {
+    "id": "f65d1848-9b24-46c2-90c6-04563faffbf7",
+    "alt": "Two maintenance workers in navy uniforms examine a tablet inside an unfinished building."
+   }
+  ]
+ },
+ "who-we-are/company-story": {
+  "title": "Company Story | Solomon Radclyffe",
+  "description": "From RGS Global Security in 2007 to a multi-continent security integrator with offices in the UAE and Zimbabwe.",
+  "h1": "",
+  "lead": "",
+  "sections": []
+ },
+ "who-we-are/leadership-board": {
+  "title": "Leadership & Board | Solomon Radclyffe",
+  "description": "Meet the leadership team and global board behind Solomon Radclyffe's security and integration projects.",
+  "h1": "",
+  "lead": "",
+  "sections": []
+ },
+ "who-we-are/vision": {
+  "title": "Our Vision | Solomon Radclyffe",
+  "description": "The thinking behind intelligent integration at Solomon Radclyffe: one coordinated security picture instead of disconnected systems.",
+  "h1": "",
+  "lead": "",
+  "sections": []
+ },
+ "who-we-are/why-solomon-radclyffe": {
+  "title": "Why Solomon Radclyffe | Security Systems Integrator",
+  "description": "Self-financed, vendor-independent and accountable across the full lifecycle — the case for appointing Solomon Radclyffe as your systems integrator.",
+  "h1": "",
+  "lead": "",
+  "sections": []
+ }
+}
