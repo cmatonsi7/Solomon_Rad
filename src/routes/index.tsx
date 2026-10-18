@@ -41,7 +41,7 @@ const router = createBrowserRouter([{
     { path: '/terms-of-use', element: <Terms /> },
     { path: '*', element: <NotFound /> },
   ],
-}]);
+}], { basename: import.meta.env.BASE_URL.replace(/\/$/, '') || undefined });
 export function AppRoutes() {
   return <Suspense fallback={<div className="min-h-[60vh] bg-ink" aria-busy="true" />}><RouterProvider router={router} /></Suspense>;
 }

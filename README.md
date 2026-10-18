@@ -16,10 +16,21 @@ npm run preview
 ## Deployment
 `dist/` is a static single-page app. Any static host works if unknown paths rewrite to `/index.html`: `public/_redirects` (Netlify/Cloudflare Pages) and `vercel.json` (Vercel) are included. Set `VITE_SITE_URL` to the live domain **before** building (canonical URLs, Open Graph, sitemap).
 
+## GitHub Pages (this repo: cmatonsi7/Solomon_Rad)
+The workflow `.github/workflows/deploy.yml` builds and publishes on every push to `main`.
+1. Repo **Settings > Pages > Build and deployment > Source: GitHub Actions** (one-time).
+2. Push to `main`; watch **Actions**. The site appears at `https://cmatonsi7.github.io/Solomon_Rad/`.
+3. Optional form endpoint: **Settings > Secrets and variables > Actions > Variables**, add `VITE_FORM_ENDPOINT`.
+
+How it works: the build uses `VITE_BASE=/Solomon_Rad/` (set in the workflow) so assets and routes live under that sub-path; the router reads the base automatically. Unknown/deep URLs are served `404.html` (a copy of `index.html`), which is the standard single-page-app workaround on Pages. For a custom domain at the root, leave `VITE_BASE` unset (or `/`) and set `VITE_SITE_URL` to the domain.
+
+Limitations on GitHub Pages: deep links return HTTP 404 behind the scenes (the page still renders), which can hurt search indexing; `robots.txt`/`sitemap.xml` are only honoured at a domain root, so they matter once you use a custom domain; Pages is static, so the contact form needs an external endpoint. For best SEO later, use a custom domain on a host with real rewrites (Netlify, Cloudflare Pages, Vercel) or add prerendering.
+
 ## Environment variables (`.env`)
 | Variable | Purpose |
 |---|---|
-| `VITE_SITE_URL` | Public URL, no trailing slash |
+| `VITE_BASE` | Sub-path for GitHub Pages project sites (`/Solomon_Rad/`); omit for root hosting |
+| `VITE_SITE_URL` | Public URL incl. sub-path, no trailing slash |
 | `VITE_FORM_ENDPOINT` | HTTPS endpoint that accepts the enquiry as JSON (your backend, Formspree, Basin…). **Unset = the form validates, then honestly reports it is not connected and offers the email address. It never fakes success.** |
 | `VITE_SHOW_PLACEHOLDERS` | `false` hides the amber placeholder blocks |
 
@@ -55,4 +66,3 @@ Verified client logos and permission to name clients; confirmed technology partn
 - Client-side rendered: titles/meta update per route in the browser; for best SEO with crawlers that don't run JS, add prerendering later.
 - Unknown URLs show the 404 page but return HTTP 200 on static hosting.
 - Images appear AI-generated/stock; confirm provenance and do not present as real projects.
-# Solomon_Rad
